@@ -3,7 +3,7 @@
   expanded: true
   items:
   -name: Develop hardware accessories for Microsoft Surface devices
-  href: ./surface/index.md
+  href: /surface/index.md
   -name: Develop hardware accessories for Xbox
-  href: ./xbox/index.md
+  href: /xbox/index.md
   
