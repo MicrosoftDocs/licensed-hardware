@@ -1,7 +1,7 @@
 ---
 title: Develop hardware accessories for Xbox
 description: Learn how to develop accessories for certification with Xbox.
-author: jdecker
+author: jdeckerms
 ms.date: 09/28/2018
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Licensed hardware
 description: Learn how to develop accessories for certification with Microsoft devices such as Xbox and Surface.
-author: jdecker
+author: jdeckerms
 ms.date: 09/28/2018
 ---
 
