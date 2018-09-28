@@ -1,2 +1,3 @@
-- name: Licensed hardware
+- name: index
   href: index.md
+  displayName: Hardware licensed for compatibility with Microsoft devices
