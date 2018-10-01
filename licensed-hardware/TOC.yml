@@ -1,8 +1,0 @@
-- name: Develop hardware accessories for Microsoft devices
-  href: index.md
-  items:
-  - name: Develop hardware accessories for Microsoft Surface devices
-  href: /surface/index.md
-  - name: Develop hardware accessories for Xbox
-  href: /xbox/index.md
-  
