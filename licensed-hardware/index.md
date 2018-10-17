@@ -8,5 +8,5 @@ ms.date: 09/28/2018
 # Welcome to licensed hardware!
 
 Placeholder2
-# Welcome to licensed-hardware!
+
 This is a small test.
