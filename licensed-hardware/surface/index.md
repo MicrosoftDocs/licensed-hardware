@@ -7,4 +7,4 @@ ms.date: 09/28/2018
 
 # Develop hardware for Surface devices
 
-Content to be added.   GB is here.
+Content to be added.   GB is working.
