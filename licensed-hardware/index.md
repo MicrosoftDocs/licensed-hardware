@@ -8,4 +8,4 @@ ms.date: 03/25/2019
 # Welcome to licensed hardware!
 
 This is Gaylon editing.
-test folder / Home Page
+In Github directly
