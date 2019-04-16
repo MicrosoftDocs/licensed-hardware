@@ -7,5 +7,4 @@ ms.date: 03/25/2019
 
 # Licensed Hardware at Microsoft
 
-This is Gaylon editing.
-In Github directly
+Also known as the Partner Hardware Team, we are the brand and technology licensing program for Microsoft Devices.  
