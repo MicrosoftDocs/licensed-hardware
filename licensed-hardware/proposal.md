@@ -15,5 +15,5 @@ Before submitting your proposal please ensure you have read and understand the M
 
 Please note that the Opportunity Management Center will screen all proposals and determine if the opportunity lines up with the criteria set by the Licensed Hardware team.
 
-
-http://aka.ms/strata_proposal
+> [!div class="nextstepaction"]
+> [Submit Proposal](http://aka.ms/strata_proposal)

@@ -5,7 +5,6 @@ author: gaylonb
 ms.date: 03/25/2019
 ---
 
-# Welcome to licensed hardware!
+# About...
 
-This is Gaylon editing.
-In Github directly
+Process, steps to be a partner and steps of approval, high level.

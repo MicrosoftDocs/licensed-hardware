@@ -31,7 +31,7 @@ ms.date: 03/25/2019
 - Licensing your product doesn’t guarantee that Microsoft will sell or market your accessory, though consideration will first be given to accessories that are in the program.
 - Validated 3rd Party Accessories will be added to the Product Catalog for Microsoft Teams to potentially use for Product Bundling purposes.
 
-## If my accessory only works with on particular device – for example, my leather case only fits Surface Pro – how can I communicate device-specific compatibility to customers? 
+## If my accessory only works with on particular device, how can I communicate device-specific compatibility to customers? 
 - The branding and packaging guidelines describe how you can specify device compatibility on packaging and marketing materials. In many cases, you may have a solution that only works one particular device – or you may have different versions of your products that apply to different  devices. Our logo artwork and packaging assets guide you through the proper way to localize your product packaging and marketing materials, and to specify device compatibility. 
 
 ## How do I get started with the pogrom? 

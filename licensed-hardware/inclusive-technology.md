@@ -5,7 +5,6 @@ author: gaylonb
 ms.date: 03/25/2019
 ---
 
-# Welcome to licensed hardware!
+# Inclusive Technology
 
-This is Gaylon editing.
-In Github directly
+Placeholder Page

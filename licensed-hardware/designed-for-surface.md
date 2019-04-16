@@ -5,7 +5,12 @@ author: gaylonb
 ms.date: 03/25/2019
 ---
 
-# Welcome to licensed hardware!
+# Designed for Surface
 
-This is Gaylon editing.
-In Github directly
+Placeholder page
+
+Would we want to call out supported categories?
+
+want to differentiate consumer from commercial
+
+Link to catalog.

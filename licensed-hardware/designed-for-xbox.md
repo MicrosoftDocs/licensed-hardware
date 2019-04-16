@@ -5,7 +5,10 @@ author: gaylonb
 ms.date: 03/25/2019
 ---
 
-# Welcome to licensed hardware!
+# Designed for Xbox
 
-This is Gaylon editing.
-In Github directly
+Placeholder page
+
+Would we want to call out supported categories?
+
+link to xbox.com
