@@ -10,9 +10,14 @@ ms.date: 04/16/2019
 > [!NOTE]
 > The Opportunity Management Center will screen all proposals and determine if the opportunity lines up with the criteria set by the Licensed Hardware team.
 
-The Licensed Hardware team has partnered with the Microsoft Opportunity Management Center to review and process all external proposals.
+Please follow the below steps to ensure the proposal will be routed correctly to our team.
 
-When filling out the proposal form please select "License IP to or from Microsoft" as well as select "Hardware & Devices"
+1. From the homepage select "Submit a Business Proposal"
+1. Select "Get Started"
+1. Complete the Submitter Information
+1. In the first drop down select "License IP to or from Microsoft"
+1. In the second drop down select "Hardware & Devices"
+1. Provide as much information as possible in the Proposal Summary.
 
 Before submitting your proposal please ensure you have read and understand the Microsoft Idea Policy.
 
