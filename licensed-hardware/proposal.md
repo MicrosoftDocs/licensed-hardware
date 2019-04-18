@@ -10,7 +10,7 @@ ms.date: 04/16/2019
 > [!NOTE]
 > The Opportunity Management Center will screen all proposals and determine if the opportunity lines up with the criteria set by the Licensed Hardware team.
 
-Please follow the below steps to ensure the proposal will be routed correctly to our team.
+Please follow the below steps to ensure the proposal is routed correctly to our team.
 
 1. From the homepage select "Submit a Business Proposal"
 1. Select "Get Started"
