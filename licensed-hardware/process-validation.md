@@ -7,4 +7,10 @@ ms.date: 03/25/2019
 
 # Product Validation
 
-Placeholder Page
+Will talk about on campus lab
+Free testing 
+Regression
+
+expected reports
+
+Compliance Declaration Form

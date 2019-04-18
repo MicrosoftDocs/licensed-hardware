@@ -7,4 +7,8 @@ ms.date: 03/25/2019
 
 # Reporting & Forecasting
 
-Placeholder Page
+Quarterly cadence
+
+reporting and forecast
+
+Will not get specific.

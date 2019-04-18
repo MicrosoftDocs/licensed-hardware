@@ -7,4 +7,10 @@ ms.date: 04/18/2019
 
 # Added-Value Programs
 
-Placeholder Page
+Will talk about catarlog/xbox.com
+events
+marketing
+the standard items from Matt/Miguel's deck
+
+Will note these super high level
+

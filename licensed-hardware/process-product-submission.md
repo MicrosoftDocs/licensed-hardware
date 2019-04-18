@@ -7,4 +7,6 @@ ms.date: 04/16/2019
 
 # Licensed Product Submission and Lifecycle
 
-Placeholder Page
+Concept, tools
+
+checklist

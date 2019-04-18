@@ -7,4 +7,12 @@ ms.date: 4/18/2019
 
 # Onboarding
 
-Placeholder Page
+nda
+
+agreement review
+
+portfolio review
+
+setup in tools
+
+
