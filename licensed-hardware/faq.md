@@ -1,6 +1,6 @@
 ---
 title: Licensed Hardware - Frequently Asked Questions
-description: Licensed Hardware - Learn how about technology and brand licensing for Xbox and Surface devices.
+description: Licensed Hardware -  Answers to Common Questions
 author: gaylonb
 ms.date: 03/25/2019
 ---
@@ -21,7 +21,7 @@ ms.date: 03/25/2019
 ## I already sell an accessory that works great with Microsoft devices, why should I participate in the program? 
 - Many accessories already work well with Microsoft devices, and many device-specific accessories were created before being part of the program. Being part of the program ensures compliance with our guidelines, and gives the licensee access to Microsoft branding assets.   The assets may be used on qualified products which allows you to differentiate your accessory from generic or unqualified solutions. Retailers will look for and customers will purchase licensed accessories with the confidence that they will work great with Microsoft devices. 
 
-## How do the programs work? 
+## How does the programs work? 
 - All program information, resources and tools are available on the a secure partner site. 
 - The program includes design guidelines include device dimensions, port configurations & considerations, and a number of important design notes to carefully observe as you develop an amazing  accessories.  
 - Microsoft will review and validate in our own lab each accessory ensuring it meets our requirements.   
@@ -31,7 +31,7 @@ ms.date: 03/25/2019
 - Licensing your product doesn’t guarantee that Microsoft will sell or market your accessory, though consideration will first be given to accessories that are in the program.
 - Validated 3rd Party Accessories will be added to the Product Catalog for Microsoft Teams to potentially use for Product Bundling purposes.
 
-## If my accessory only works with on particular device, how can I communicate device-specific compatibility to customers? 
+## If my accessory only works with one particular device, how can I communicate device-specific compatibility to customers? 
 - The branding and packaging guidelines describe how you can specify device compatibility on packaging and marketing materials. In many cases, you may have a solution that only works one particular device – or you may have different versions of your products that apply to different  devices. Our logo artwork and packaging assets guide you through the proper way to localize your product packaging and marketing materials, and to specify device compatibility. 
 
 ## How do I get started with the pogrom? 

@@ -1,10 +1,10 @@
 ---
-title: Licensed Hardware - Product Submission
-description: Licensed Hardware - Learn how to submit and track products actively going through the program.
+title: Licensed Hardware - Branding
+description: Licensed Hardware - Learn about program branding
 author: gaylonb
 ms.date: 04/16/2019
 ---
 
-# Licensed Product Submission and Lifecycle
+# Branding
 
 Placeholder Page
