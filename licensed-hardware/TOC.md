@@ -1,4 +1,4 @@
-# [Licenced Hardware](index.md)
+# [Licensed Hardware](index.md)
 ## [Programs]()
 ### [Designed for Xbox](program-designed-for-xbox.md)
 ### [Designed for Surface](program-designed-for-surface.md)
