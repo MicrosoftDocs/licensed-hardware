@@ -12,5 +12,5 @@ Inclusive Technology shows up a couple different ways within the Licensed Hardwa
 ## Xbox Adaptive Controller
 We oversee and champion the creation of add-ons for the Xbox Adaptive Controller.    The [Input Specification](https://support.xbox.com/en-US/xbox-one/controllers/xbox-adaptive-controller-input-device-specification) as well as support forums are available on Xbox.com.
 
-## Inclusive Technology for Microsoft Devices
+## Assistive Technology for Microsoft Devices
 We are interested in discussing a wide range of accessories that would enable more people to use and enjoy Microsoft devices.  In most cases any proposal would be considered part of the Designed for Xbox or Designed for Surface programs.  
