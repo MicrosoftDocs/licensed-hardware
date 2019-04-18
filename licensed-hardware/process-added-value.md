@@ -7,7 +7,7 @@ ms.date: 04/18/2019
 
 # Added-Value Programs
 
-Will talk about catarlog/xbox.com
+Will talk about catalog/xbox.com
 events
 marketing
 the standard items from Matt/Miguel's deck
