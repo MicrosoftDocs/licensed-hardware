@@ -7,8 +7,8 @@ ms.date: 04/16/2019
 
 # Submitting a Proposal
 
-[!NOTE]
-The Opportunity Management Center will screen all proposals and determine if the opportunity lines up with the criteria set by the Licensed Hardware team.
+> [!NOTE]
+> The Opportunity Management Center will screen all proposals and determine if the opportunity lines up with the criteria set by the Licensed Hardware team.
 
 The Licensed Hardware team has partnered with the Microsoft Opportunity Management Center to review and process all external proposals.
 

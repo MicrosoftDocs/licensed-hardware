@@ -29,5 +29,5 @@ The Designed for Surface Team exists to drive **high quality** partner products 
 - Retail & Consumer Goods
 - Travel & Transportation
 
-[!TIP]
-Visit the [Designed for Surface Catalog](http://aka.ms/DFS) to see current products.
+> [!TIP]
+> Visit the [Designed for Surface Catalog](http://aka.ms/DFS) to see current products.
