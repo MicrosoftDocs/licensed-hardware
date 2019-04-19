@@ -5,12 +5,24 @@ author: gaylonb
 ms.date: 04/18/2019
 ---
 
-# Added-Value Programs
+# Added-Value Opportunities
 
-Will talk about catalog/xbox.com
-events
-marketing
-the standard items from Matt/Miguel's deck
+As a partner in one of the programs, licensees have access to a variety of added-value opportunities.   Depending on alignment and timing partners may be able to participate in one or more of the following opportunities.
 
-Will note these super high level
+### Internal Connections/Intros
 
+- Marketing
+- Planning
+- MS Stores
+- Retail Team
+
+
+### Events
+
+The team is active at industry events and ensures that licensed products are leveraged in Microsoft booths and other meeting rooms.
+
+### IP/Co-Branding
+
+Integration of brands and Microsoft IP into licensed products is a great opportunity at the launch of new devices.  
+
+"photo of co branded hardware to be added"
