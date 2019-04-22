@@ -5,7 +5,7 @@ author: gaylonb
 ms.date: 03/25/2019
 ---
 
-# Reporting & Forecasting
+# Forecasting and Reporting
 
 Also known as the "rhythm of the business" the agreement outlines the quarterly reporting requirements for both royalty reporting and projected forecasts.
 

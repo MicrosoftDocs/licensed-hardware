@@ -19,6 +19,10 @@ As a partner in one of the programs, licensees have access to a variety of added
 - MS Stores
 - Retail Team
 - Planning
+- Platform Software
+- Game Studios
+- Social Teams
+- Event Teams
 
 
 ### Events
@@ -27,6 +31,5 @@ The team is active at industry events and ensures that licensed products are lev
 
 ### IP/Co-Branding
 
-Integration of brands and Microsoft IP into licensed products is a great opportunity at the launch of new devices.  
+Integration of brands and Microsoft IP into licensed products is exclusive to licensed hardware partners.
 
-"photo of co branded hardware to be added"
