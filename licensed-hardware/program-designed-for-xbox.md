@@ -15,12 +15,15 @@ The Designed for Xbox program exists to drive **best in class** partner products
 - Racing Wheels
 - Charging
 - External Storage
-- Fight Sticks
+- Arcade/Fight Sticks
 - Flight Sticks
 - Skins
 - Mounts
 - Cables
-- Custom Hardware
+- Networking
+- Keyboard & Mouse
+- Broadcast and Streaming
+- Custom Hardware (tied to specific game titles)
 
 > [!TIP]
 > Visit the [Designed for Xbox accessories page](http://aka.ms/D4Xbox_featured) to see current products.

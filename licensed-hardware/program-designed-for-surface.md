@@ -9,7 +9,7 @@ ms.date: 03/25/2019
 
 The Designed for Surface Team exists to drive **high quality** partner products that **augment the Surface brand** and experience, **drive profitability**, and **aide in selling Surface Devices**.
 
-## Active DFS Categories
+## Active Categories
 - Protect - Cases & Device Protection, Screen Covers, Locking & Security
 - Cary - Sleeves and Bags
 - Connect - Adapters and Cables
@@ -18,6 +18,7 @@ The Designed for Surface Team exists to drive **high quality** partner products 
 - Point of Sale - Kiosks and other integrated accessories
 
 ## Industries
+
 - Commercial
 - Education
 - Energy (Gas, Oil, & Electric)
