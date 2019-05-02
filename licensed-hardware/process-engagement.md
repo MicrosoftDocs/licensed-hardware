@@ -14,7 +14,7 @@ Once contact has been established potential partners should plan on submitting t
 1. Regional and retailer presence
 1. Opportunity and differentiators for the program
 
-If selected to move forward potential partners should expect to follow the next steps.
+If selected to move forward, potential partners should expect the following steps.
 
 1. Sign a standard reciprical NDA
 1. Review and Sign the licensing agreement template

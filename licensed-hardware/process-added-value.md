@@ -1,13 +1,13 @@
 ---
 title: Licensed Hardware - Added-Value Options
-description: Licensed Hardware - Learn about the Added-value options that are part of the Licensed Hardware programs. 
+description: Licensed Hardware - Learn about the Added-value options that are part of the Licensed Hardware programs
 author: gaylonb
 ms.date: 04/18/2019
 ---
 
 # Added-Value Opportunities
 
-As a partner in one of the programs, licensees have access to a variety of added-value opportunities.   Depending on alignment and timing partners may be able to participate in one or more of the following opportunities.
+As a partner in one of the programs, licensees have access to a variety of added-value opportunities.  Depending on alignment and timing partners may be able to participate in one or more of the following opportunities.
 
 ### Inclusion on Microsoft Sites
 - Designed for Xbox licensed accessories can be found on [Xbox.com](http://aka.ms/d4xbox_featured)
@@ -23,7 +23,6 @@ As a partner in one of the programs, licensees have access to a variety of added
 - Game Studios
 - Social Teams
 - Event Teams
-
 
 ### Events
 

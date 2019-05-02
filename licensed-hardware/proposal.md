@@ -12,12 +12,12 @@ ms.date: 04/16/2019
 
 Please follow the below steps to ensure the proposal is routed correctly to our team.
 
-1. From the homepage select "Submit a Business Proposal"
-1. Select "Get Started"
-1. Complete the Submitter Information
-1. In the first drop down select "License IP to or from Microsoft"
-1. In the second drop down select "Hardware & Devices"
-1. Provide as much information as possible in the Proposal Summary.
+1. From the [Opportunity Management Center home page](http://aka.ms/strata_proposal) select **Submit a Business Proposal**.
+1. Select **Get Started**.
+1. Complete the Submitter information.
+1. In the first drop-down menu, select **License IP to or from Microsoft**.
+1. In the second drop-down menu, select **Hardware & Devices**.
+1. Provide as much information as possible in the Proposal Summary field.
 
 Before submitting your proposal please ensure you have read and understand the Microsoft Idea Policy.
 

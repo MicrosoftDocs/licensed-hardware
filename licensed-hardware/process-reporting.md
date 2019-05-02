@@ -9,5 +9,5 @@ ms.date: 03/25/2019
 
 Also known as the "rhythm of the business" the agreement outlines the quarterly reporting requirements for both royalty reporting and projected forecasts.
 
-Once onboarded templates and process are shared with the licensee.
+Once onboarded, templates and process are shared with the licensee.
 
