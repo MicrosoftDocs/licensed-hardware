@@ -1,6 +1,8 @@
 ---
 title: Licensed Hardware - Frequently Asked Questions
 description: Licensed Hardware -  Answers to Common Questions
+ms.topic: reference
+ms.author: gaylonb
 author: gaylonb
 ms.date: 03/25/2019
 ---
@@ -8,7 +10,8 @@ ms.date: 03/25/2019
 # Frequently Asked Questions
 
 ## Who is eligible to participate in the Licensed Hardware programs? 
-- We are interested in talking to all companies who are interested in creating amazing accessories for the Microsoft family of devices. Please read about each program to find out which one is right for you.
+- We are interested in talking to all companies who are interested in creating amazing accessories for the Microsoft family of devices. 
+- Please read about each program to find out which one is right for you.
 - We primarily work with product brands and not component manufacturers.
 
 ## What types of accessories are part of the programs?

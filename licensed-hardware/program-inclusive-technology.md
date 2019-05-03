@@ -1,6 +1,8 @@
 ---
 title: Licensed Hardware - Inclusive Technology Program
 description: Licensed Hardware - Learn about how Inclusive Technology is part of our other programs
+ms.topic: reference
+ms.author: gaylonb
 author: gaylonb
 ms.date: 03/25/2019
 ---

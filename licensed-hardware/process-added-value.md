@@ -1,6 +1,8 @@
 ---
 title: Licensed Hardware - Added-Value Options
 description: Licensed Hardware - Learn about the Added-value options that are part of the Licensed Hardware programs
+ms.topic: reference
+ms.author: gaylonb
 author: gaylonb
 ms.date: 04/18/2019
 ---
