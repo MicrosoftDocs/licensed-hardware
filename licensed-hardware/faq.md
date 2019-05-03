@@ -1,7 +1,7 @@
 ---
 title: Licensed Hardware - Frequently Asked Questions
 description: Licensed Hardware -  Answers to Common Questions
-ms.topic: reference
+ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
 ms.date: 03/25/2019
