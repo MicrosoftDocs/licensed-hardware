@@ -1,7 +1,7 @@
 ---
 title: Licensed Hardware - Display Technology Collaboration
 description: Licensed Hardware - Learn about the DTC Program
-ms.topic: reference
+ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
 ms.date: 03/25/2019

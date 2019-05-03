@@ -1,7 +1,7 @@
 ---
 title: Licensed Hardware - Product Submission
 description: Licensed Hardware - Learn how to submit and track products actively going through the program.
-ms.topic: reference
+ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
 ms.date: 04/16/2019

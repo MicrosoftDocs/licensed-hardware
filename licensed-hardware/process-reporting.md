@@ -1,7 +1,7 @@
 ---
 title: Licensed Hardware - Reporting
 description: Licensed Hardware - Learn about the forecasting and reporting process.
-ms.topic: reference
+ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
 ms.date: 03/25/2019
