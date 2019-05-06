@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Submitting a Proposal
-description: Licensed Hardware - Understanding the process to engage and submit a proposal to the Hardware Licensing team.
+description: Licensed Hardware - Understanding the process to engage and submit a proposal to the Hardware Licensing team
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb

@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Designed for Xbox Program
-description: Licensed Hardware - Learn how about technology and brand licensing for Xbox and Surface devices.
+description: Licensed Hardware - Learn how about technology and brand licensing for Xbox and Surface devices
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb

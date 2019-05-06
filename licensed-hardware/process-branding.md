@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Branding
 description: Licensed Hardware - Learn about program branding
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb

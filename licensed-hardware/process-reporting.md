@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Reporting
-description: Licensed Hardware - Learn about the forecasting and reporting process.
+description: Licensed Hardware - Learn about the forecasting and reporting process
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
