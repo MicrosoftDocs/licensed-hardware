@@ -13,8 +13,8 @@ As a partner in one of the programs, licensees have access to a variety of added
 
 ### Inclusion on Microsoft Sites
 
-- Designed for Xbox licensed accessories can be found on [Xbox.com](http://aka.ms/d4xbox_featured)
-- Designed for Surface licensed accessories can be found in the [DFS Catalog](http://aka.ms/DFS)
+- Designed for Xbox licensed accessories can be found on [Xbox.com](https://aka.ms/d4xbox_featured)
+- Designed for Surface licensed accessories can be found in the [DFS Catalog](https://aka.ms/DFS)
 
 ### Internal Connections
 

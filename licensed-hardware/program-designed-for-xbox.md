@@ -28,4 +28,4 @@ The Designed for Xbox program exists to drive **best in class** partner products
 - Custom Hardware (tied to specific game titles)
 
 > [!TIP]
-> Visit the [Designed for Xbox accessories page](http://aka.ms/D4Xbox_featured) to see current products.
+> Visit the [Designed for Xbox accessories page](https://aka.ms/D4Xbox_featured) to see current products.
