@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Display Technology Collaboration
 description: Licensed Hardware - Learn about the DTC Program
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb

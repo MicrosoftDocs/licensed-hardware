@@ -1,10 +1,11 @@
 ---
 title: Licensed Hardware - Onboarding
 description: Licensed Hardware - Learn how the steps required to become a Licensed Hardware Partner
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
-ms.date: 4/18/2019
+ms.date: 04/18/2019
 ---
 
 # Engagement

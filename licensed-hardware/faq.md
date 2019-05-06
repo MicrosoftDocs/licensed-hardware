@@ -1,6 +1,7 @@
 ---
 title: Licensed Hardware - Frequently Asked Questions
-description: Licensed Hardware -  Answers to Common Questions
+description: Licensed Hardware - Answers to common questions
+ms.prod: gaming
 ms.topic: conceptual
 ms.author: gaylonb
 author: gaylonb
