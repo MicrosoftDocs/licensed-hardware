@@ -1,5 +1,5 @@
 ---
-title: Licensed Hardware - Product Develoment
+title: Licensed Hardware - Product Development
 description: Licensed Hardware - Learn how to submit and track products actively going through the program
 ms.prod: gaming
 ms.topic: conceptual

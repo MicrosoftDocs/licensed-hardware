@@ -11,4 +11,4 @@
 ### [Reporting](process-reporting.md)
 ### [Added-Value](process-added-value.md)
 ## [FAQ](faq.md)
-## [Submit Proposal](proposal.md)
+## [Submit a Proposal](proposal.md)

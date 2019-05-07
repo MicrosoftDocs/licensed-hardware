@@ -1,5 +1,5 @@
 ---
-title: Licensed Hardware - Onboarding
+title: Licensed Hardware - Engagement Process
 description: Licensed Hardware - Learn how the steps required to become a Licensed Hardware Partner
 ms.prod: gaming
 ms.topic: conceptual
@@ -13,7 +13,7 @@ ms.date: 04/18/2019
 Once contact has been established potential partners should plan on submitting the following items.
 
 1. Company overview / Annual Report
-1. Current line up of gaming products in market
+1. Current line up of products in market
 1. Regional and retailer presence
 1. Specific interests in the program
 1. Differentiators  between your and similar products
