@@ -12,7 +12,8 @@ ms.date: 03/25/2019
 
 The Designed for Surface Team exists to drive **high quality** partner products that **augment the Surface brand** and experience, **drive profitability**, and **aide in selling Surface Devices**.
 
-## Active Categories
+## Categories
+
 - Protect - Cases & Device Protection, Screen Covers, Locking & Security
 - Carry - Sleeves and Bags
 - Connect - Adapters and Cables
