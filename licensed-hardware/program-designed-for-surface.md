@@ -14,7 +14,7 @@ The Designed for Surface Team exists to drive **high quality** partner products 
 
 ## Active Categories
 - Protect - Cases & Device Protection, Screen Covers, Locking & Security
-- Cary - Sleeves and Bags
+- Carry - Sleeves and Bags
 - Connect - Adapters and Cables
 - Power - Storage & Charging Carts and Mobile Power Solutions
 - Display & Mount - Docking Stations, Stands & Enclosures, Personal/Desk Space
