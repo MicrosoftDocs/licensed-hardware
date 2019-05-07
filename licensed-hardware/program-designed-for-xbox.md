@@ -10,7 +10,7 @@ ms.date: 03/25/2019
 
 # Designed for Xbox
 
-The Designed for Xbox program exists to drive **best in class** partner products that **augment the Xbox gaming experience** across endpoints, **drive profitability**, and **preserve** the Xbox brand.
+The Designed for Xbox Program exists to help hardware partners create **best in class** products for Xbox. Our goal is to **augment the Xbox gaming experience** across all endpoints while **preserving** the Xbox brand.
 
 ## Active Categories
 - Controllers

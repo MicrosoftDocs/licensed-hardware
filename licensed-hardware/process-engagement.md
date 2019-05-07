@@ -12,15 +12,15 @@ ms.date: 04/18/2019
 
 Once contact has been established potential partners should plan on submitting the following items.
 
-1. Company overview
-1. Current product/portfolio overview
+1. Company overview / Annual Report
+1. Current line up of gaming products in market
 1. Regional and retailer presence
-1. Opportunity and differentiators for the program
+1. Specific interests in the program
+1. Differentiators  between your and similar products
 
 If selected to move forward, potential partners should expect the following steps.
 
-1. Sign a standard reciprical NDA
+1. Sign a standard reciprocal NDA
 1. Review and Sign the licensing agreement template
 1. Complete onboarding training
 1. Get setup with access to tools and systems
-
