@@ -1,5 +1,5 @@
 ---
-title: Licensed Hardware - Branding
+title: Licensed Hardware - Branding Overview
 description: Licensed Hardware - Learn about program branding
 ms.prod: gaming
 ms.topic: conceptual
