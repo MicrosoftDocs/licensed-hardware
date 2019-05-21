@@ -18,4 +18,5 @@ We oversee and champion the creation of add-ons for the Xbox Adaptive Controller
 ## Assistive Technology for Microsoft Devices
 We are interested in discussing a wide range of accessories that would enable more people to use and enjoy Microsoft devices. In most cases, any proposal would be considered part of the **Designed for Xbox** or **Designed for Surface** programs. 
 
-To learn more and see recent photos visit the [Inclusive Tech Lab](https://aka.ms/inclusivetechlab).
+> [!TIP]
+> Visit the [Inclusive Tech Lab](https://aka.ms/inclusivetechlab) to see current photos and learn more.
