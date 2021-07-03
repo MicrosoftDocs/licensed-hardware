@@ -10,5 +10,5 @@
 ### [Branding](process-branding.md)
 ### [Reporting](process-reporting.md)
 ### [Added-Value](process-added-value.md)
-## [FAQ](faq.md)
+## [FAQ](faq.yml)
 ## [Submit a Proposal](proposal.md)
